@@ -1,1 +1,3 @@
 # eslint-test-stag
+
+ping
